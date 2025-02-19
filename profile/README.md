@@ -17,7 +17,7 @@ Here are Solana projects:
 
 Pumpfun forking Smart contract(Raydium + Meteora Migration) [View](https://github.com/NexusSoluOrg/pumpfun-fork-smart-contract)
 
-Solana Copy Trading Bot(PumpFun, Raydium)
+Solana Copy Trading Bot(PumpFun, Raydium) [View](https://github.com/NexusSoluOrg/solana-copy-trading-bot)
 
 PumpFun Indexer, Raydium Indexer
 
