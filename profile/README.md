@@ -19,6 +19,8 @@ Pumpfun forking Smart contract(Raydium + Meteora Migration) [View](https://githu
 
 Solana Copy Trading Bot(PumpFun, Raydium) [View](https://github.com/NexusSoluOrg/solana-copy-trading-bot)
 
+Solana Telegram Trading Bot [View](https://github.com/NexusSoluOrg/Solana-Telegram-Trading-Bot)
+
 PumpFun Indexer [View](https://github.com/NexusSoluOrg/PumpFun-Indexer)
 
 Raydium Indexer [View](https://github.com/NexusSoluOrg/Raydium-Indexer)
