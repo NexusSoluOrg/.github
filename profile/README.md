@@ -10,3 +10,19 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+We create and build innovative things in Blockchain
+
+Here are Solana projects:
+
+Pumpfun forking Smart contract(Raydium + Meteora Migration)
+
+Solana Copy Trading Bot(PumpFun, Raydium)
+
+PumpFun Indexer, Raydium Indexer
+
+Raydium Trading Bots(Bundler, Sniper, Volume Bot + Maker Bot)
+
+PumpFun Trading Bots(All-in-one Bot, Bundler, Sniper, Volume Bot + Maker Bot, Comment Bot)
+
+Meteora Trading Bots(Bundler, Sniper, Volume Bot)
