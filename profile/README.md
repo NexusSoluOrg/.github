@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-At [Nexus Solutions](#), we are dedicated to creating and developing innovative solutions in the blockchain space. Our focus is on building robust applications and tools that enhance the functionality and usability of blockchain technologies, particularly within the Solana ecosystem.
+At [Nexus Solutions](https://github.com/NexusSoluOrg), we are dedicated to creating and developing innovative solutions in the blockchain space. Our focus is on building robust applications and tools that enhance the functionality and usability of blockchain technologies, particularly within the Solana ecosystem.
 
 ### Our Solana Projects
 
