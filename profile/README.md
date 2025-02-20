@@ -1,44 +1,49 @@
 ## Welcome 👋
 
-<!--
+At [Nexus Solutions](#), we are dedicated to creating and developing innovative solutions in the blockchain space. Our focus is on building robust applications and tools that enhance the functionality and usability of blockchain technologies, particularly within the Solana ecosystem.
 
-**Here are some ideas to get you started:**
+### Our Solana Projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Here are some of our notable projects:
 
-We create and build innovative things in Blockchain
+1. **PumpFun Forking Smart Contract** (Raydium + Meteora Migration)  
+   [View Project](https://github.com/NexusSoluOrg/pumpfun-fork-smart-contract)
 
-Here are Solana projects:
+2. **Solana Copy Trading Bot** (PumpFun, Raydium)  
+   [View Project](https://github.com/NexusSoluOrg/solana-copy-trading-bot)
 
-Pumpfun forking Smart contract(Raydium + Meteora Migration) [View](https://github.com/NexusSoluOrg/pumpfun-fork-smart-contract)
+3. **Solana Telegram Trading Bot**  
+   [View Project](https://github.com/NexusSoluOrg/Solana-Telegram-Trading-Bot)
 
-Solana Copy Trading Bot(PumpFun, Raydium) [View](https://github.com/NexusSoluOrg/solana-copy-trading-bot)
+4. **PumpFun Indexer**  
+   [View Project](https://github.com/NexusSoluOrg/PumpFun-Indexer)
 
-Solana Telegram Trading Bot [View](https://github.com/NexusSoluOrg/Solana-Telegram-Trading-Bot)
+5. **Raydium Indexer**  
+   [View Project](https://github.com/NexusSoluOrg/Raydium-Indexer)
 
-PumpFun Indexer [View](https://github.com/NexusSoluOrg/PumpFun-Indexer)
+### Trading Bots
 
-Raydium Indexer [View](https://github.com/NexusSoluOrg/Raydium-Indexer)
+- **Raydium Trading Bots**
+  - Bundler
+  - Sniper
+  - Volume Bot
+  - Maker Bot
 
--Raydium Trading Bots(Bundler, Sniper, Volume Bot + Maker Bot)
+- **PumpFun Trading Bots**
+  - [PumpFun All-in-One Bot](https://github.com/NexusSoluOrg/pumpfun-trading-bot-all-in-one)
+  - PumpFun Bundler
+  - PumpFun Sniper
+  - PumpFun Volume Bot
+  - PumpFun Comment Bot
 
--PumpFun Trading Bots
+- **Meteora Trading Bots**
+  - Bundler
+  - Sniper
+  - Volume Bot
 
-PumpFun All-in-One Bot [View](https://github.com/NexusSoluOrg/pumpfun-trading-bot-all-in-one)
+### Additional Tools
 
-PumpFun Bundler
+- **Solana Bundler Checker**  
+   [View Project](https://github.com/NexusSoluOrg/solana-bundler-checker)
 
-PumpFun Sniper
-
-PumpFun Volume Bot
-
-PumpFun Comment Bot
-
--Meteora Trading Bots(Bundler, Sniper, Volume Bot)
-
-Solana Bundler Checker [View](https://github.com/NexusSoluOrg/solana-bundler-checker)
+Feel free to explore our projects and contribute to our initiatives! Together, we can push the boundaries of what is possible in the blockchain space.
