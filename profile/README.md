@@ -27,7 +27,7 @@ Raydium Indexer [View](https://github.com/NexusSoluOrg/Raydium-Indexer)
 
 -Raydium Trading Bots(Bundler, Sniper, Volume Bot + Maker Bot)
 
-- PumpFun Trading Bots
+-PumpFun Trading Bots
 
 PumpFun All-in-One Bot [View](https://github.com/NexusSoluOrg/pumpfun-trading-bot-all-in-one)
 
@@ -39,6 +39,6 @@ PumpFun Volume Bot
 
 PumpFun Comment Bot
 
-- Meteora Trading Bots(Bundler, Sniper, Volume Bot)
+-Meteora Trading Bots(Bundler, Sniper, Volume Bot)
 
 Solana Bundler Checker [View](https://github.com/NexusSoluOrg/solana-bundler-checker)
